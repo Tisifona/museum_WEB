@@ -1,3 +1,4 @@
+
 html{
     height: 100%;
 }
@@ -106,34 +107,18 @@ ul {
 
 }
 
+
 main{
     margin: 0;
-    background: url("Pergamon Museum__MG_4937_c_Günter Steffen_DL_PPT_0.jpg") center no-repeat;
     background-size: cover;
     height: 700px;
     width: 100%;
     position: relative;
     object-fit: cover;
 }
-.caption {
-    font-weight: bold;
-    text-align: center;
-    position: absolute;
-    color: #000000;
-    margin-top: 150px;
-    left: 0;
-    right: 0;
-    font-family: 'Open Sans', sans-serif;
-}
-.caption-header {
-    letter-spacing: 7px;
-    font-size: 90px;
-    line-height: 12px;
-    text-transform: uppercase;
-}
-.caption-main{
-    font-size: 18px;
-}
+
+
+
 footer{
     position: relative;
     right: 0;
