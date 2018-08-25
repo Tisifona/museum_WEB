@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/webstorm
 
 ### WebStorm ###
@@ -68,7 +67,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
-# .idea/misc.xml
+.idea
 # *.ipr
 
 # Sonarlint plugin
