@@ -1,8 +1,14 @@
-.caption{
+.caption {
     margin-top: 20px;
+}
+section{
     padding-top: 23px;
 }
-table{
+.table h2{
+    text-align: center;
+    color: #11c2e1;
+}
+table {
     border: 0;
     margin: 0;
     padding: 0;
@@ -12,13 +18,16 @@ table{
     text-align: left;
 
 }
-tbody{
-    height: 600px;
+
+tbody {
+    height: 300px;
 }
-th{
+
+th {
     font-size: 21px;
 }
-table, th{
+
+table, th {
     text-align: center;
     border: 1px solid #000000;
     height: 30px;
