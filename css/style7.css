@@ -1,49 +1,47 @@
 .main-subscribe {
     margin: 20px;
     padding-top: 29px;
-width: 100%;
     height: 100px;
     background-color: #ffffff;
     display: flex;
     align-items: center;
     align-content: center;
-    justify-content: space-between;
+
 }
-.main-subscribe h2{
-    color: #11c2e1;
-}
+
 .main-subscribe-text {
     font-family: 'Open Sans', sans-serif;
     font-size: 21px;
     font-weight: bold;
-    width: 80%;
-    text-align: right;
-    padding-right: 15px;
+    width: 47%;
 }
-
+.main-subscribe-form-text{
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.main-subscribe-form-text h2{
+    color: #11c2e1;
+}
 .main-subscribe-form {
-    width: 100%;
+    margin-top: 5px;
+    width: 21%;
 }
 
-.form {
+.form-text {
+    width: 163px;
     font-family: 'Open Sans', sans-serif;
     color: #000000;
     background-color: #f3f3f3;
-    text-align: center;
-    width: 48%;
+    padding-left: 10px;
     height: 55px;
     border: 1px solid #000000;
 }
 
-.form::placeholder {
+.form-text::placeholder {
     color: #000000;
     opacity: 0.6;
 }
 
-.caption{
-    margin-top: 20px;
-    padding-top: 23px;
-}
 table{
     border: 0;
     margin: 0;
@@ -65,3 +63,4 @@ table, th{
     border: 1px solid #000000;
     height: 30px;
 }
+
