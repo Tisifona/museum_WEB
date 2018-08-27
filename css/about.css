@@ -1,0 +1,26 @@
+.main-caption{
+    margin: 20px;
+    padding-top: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main-caption:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+.main-caption-img{
+    width: 35%;
+}
+.main-caption-img img{
+    width: 100%;
+    height: 350px;
+}
+.main-caption-text{
+    text-align: center;
+    width: 50%;
+    font-style: italic;
+}
+.main-caption-text h1{
+    color: #11c2e1;
+    font-style: normal;
+}
